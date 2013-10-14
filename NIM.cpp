@@ -34,6 +34,7 @@ int main( )
 	int val;
 	do
 	{
+		cout << "Hannes Pall Thordarson";
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
